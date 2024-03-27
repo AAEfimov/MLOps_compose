@@ -2,7 +2,7 @@
 
 build:
 	git submodule init
-	git submoule update
+	git submodule update
 	cp Dockerfile server/
 	docker-compose -f docker-compose.yml build $(c)
 up:
