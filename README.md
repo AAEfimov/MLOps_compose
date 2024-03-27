@@ -1,7 +1,10 @@
 
-![Docker Compose](logo.png?raw=true "Docker Compose Logo")
 
-# How to run
+<p align="center">
+  <img src="https://raw.githubusercontent.com/docker/compose/main/logo.png?raw=true" alt="compose logo"/>
+</p>
+
+# How to build
 
 ```
 git clone https://github.com/AAEfimov/MLOps_compose
