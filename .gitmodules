@@ -1,0 +1,3 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/Alexandra32f/PI-project1
